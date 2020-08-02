@@ -18,7 +18,7 @@ For Windows, this should be in your `C:\Users\<user-name>`.
 
 (Yes I said "copy and paste", because I'm new to coding and I don't know how to make installation etc files yet.)
 
-### How To Use
+## How To Use
 
 Assuming `studio64.exe` (Android Studio executable for 64-bit machines) is in the path: `C:\Program Files\Android\Android Studio\bin\`.
 
