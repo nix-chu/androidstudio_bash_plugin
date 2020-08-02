@@ -1,6 +1,6 @@
-# (unofficial) Android Studio Project plugin for Bash Terminal
+# Android Studio Project plugin for Bash Terminal
 
-Bash plugin for opening Android Studio projects with ease. Works similar to opening project folders in Visual Studio Code.
+Unofficial bash plugin for opening Android Studio projects with ease. Works similar to opening project folders in Visual Studio Code.
 
 Only tested on Windows 10.
 
@@ -26,11 +26,15 @@ In the bash terminal:
 
 - To open an Android Studio project at the current directory:
 
-```androidstudio```
+```
+androidstudio
+```
 
 - To open an Android Studio project in another folder that exists in the current directory:
 
- ```androidstudio <foldername>```
+ ```
+ androidstudio <foldername>
+ ```
 
 ## Contributing
 
